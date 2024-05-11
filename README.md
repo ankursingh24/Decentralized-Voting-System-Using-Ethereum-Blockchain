@@ -57,6 +57,12 @@
     
         npm install -g truffle
 
+ 12. Install truffle  contracts globally
+    
+    npm i --save-dev @truffle/contract
+
+    
+
 14. Go to the root directory of repo and install node modules
 
         npm install
@@ -83,8 +89,10 @@
 
 5. Bundle app.js with browserify
     
-        browserify ./src/js/app.js -o ./src/dist/app.bundle.js
-
+        npm i browserify
+   
+       browserify ./src/js/app.js -o ./src/dist/app.bundle.js
+   
 2. Start the node server server
     
         node index.js
