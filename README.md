@@ -19,6 +19,10 @@
 
 ## Screenshots
 
+![Screenshot (1144)](https://github.com/ankursingh24/Dentcentralized-Voting-System-Using-Ethereum-Blockchain/assets/99939932/e5811e2e-f72a-4c12-9988-db5df416c769)
+
+
+![Screenshot (1145)](https://github.com/ankursingh24/Dentcentralized-Voting-System-Using-Ethereum-Blockchain/assets/99939932/4b2a0c3b-97e0-42df-9d10-8c6ab7f3b0e8)
 
 ## Installation
 
